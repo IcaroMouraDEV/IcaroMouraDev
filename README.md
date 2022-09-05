@@ -3,7 +3,7 @@
 const verifyLanguageFluency = (language) => {
   if (language === 'Portuguese') return 'Native language';
   if (language === 'English') return 'Intermediary fluency';
-  return 'don't speek this language';
+  return 'don't speak this language';
 }
 ```
 
