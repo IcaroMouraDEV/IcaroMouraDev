@@ -1,4 +1,9 @@
-### Hi there 👋
+```javascript
+
+if (language === 'Portuguese') return 'Native language'
+if (language === 'English') return 'Intermediary fluency'
+
+```
 
 <!--
 **IcaroMouraDEV/IcaroMouraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
