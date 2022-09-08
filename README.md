@@ -7,7 +7,7 @@ const verifyLanguageFluency = (lang) => {
   case 'English':
     return 'Intermediary fluency';
   default:
-    return 'don't speak this language';
+    return "don't speak this language";
   }
 }
 ```
