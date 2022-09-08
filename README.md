@@ -1,9 +1,14 @@
 ### Language Fluency
 ```javascript
-const verifyLanguageFluency = (language) => {
-  if (language === 'Portuguese') return 'Native language';
-  if (language === 'English') return 'Intermediary fluency';
-  return 'don't speak this language';
+const verifyLanguageFluency = (lang) => {
+  switch(lang) {
+  case 'Portuguese':
+    return 'Native language';
+  case 'English':
+    return 'Intermediary fluency';
+  default:
+    return 'don't speak this language';
+  }
 }
 ```
 
