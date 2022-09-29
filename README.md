@@ -11,10 +11,13 @@ const verifyLanguageFluency = (lang) => {
   }
 }
 ```
+-----
 ### Contato
 
 Email: icaromoura.programador@gmail.com
 Linkedin: https://www.linkedin.com/in/icaro-moura-dev/
+
+-----
 
 <!--
 **IcaroMouraDEV/IcaroMouraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
