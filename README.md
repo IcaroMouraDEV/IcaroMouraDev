@@ -14,7 +14,7 @@ const verifyLanguageFluency = (lang) => {
 -----
 ### Contato
 
-Email: icaromoura.programador@gmail.com
+Email: icaromoura.programador@gmail.com <br/>
 Linkedin: https://www.linkedin.com/in/icaro-moura-dev/
 
 -----
