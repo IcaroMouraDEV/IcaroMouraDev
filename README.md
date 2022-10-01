@@ -24,7 +24,7 @@
 ---
 ### Contato
 
-Email: icaromoura.programador@gmail.com <br/>
+`Email`: icaromoura.programador@gmail.com <br/>
 Linkedin: https://www.linkedin.com/in/icaro-moura-dev/
 
 <!--
