@@ -1,7 +1,7 @@
 ## Olá, meu nome é Ícaro Joel.
 ### Sou estudande de Desenvolvimento Web, na Trybe
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/brenooliveiranascimento">
+  <a href="https://github.com/IcaroMouraDev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IcaroMouraDEV&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMouraDEV&layout=compact&langs_count=5&theme=react&hide_border=true"/>
 </div>
@@ -21,12 +21,11 @@
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </section>
 
----
 ### Contato
-
-`Email`: icaromoura.programador@gmail.com <br/>
-Linkedin: https://www.linkedin.com/in/icaro-moura-dev/
-
+<div>
+  Email: icaromoura.programador@gmail.com <br/>
+  <a href="https://www.linkedin.com/in/icaro-moura-dev/">Linkedin</a>
+</div>
 <!--
 **IcaroMouraDEV/IcaroMouraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
