@@ -1,6 +1,5 @@
 ## Olá, meu nome é Ícaro Joel.
----
-### Estudande de Desenvolvimento Web, na Trybe
+### Sou estudande de Desenvolvimento Web, na Trybe
 <div align="center" style="display: inline_block">
   <a href="https://github.com/brenooliveiranascimento">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IcaroMouraDEV&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
