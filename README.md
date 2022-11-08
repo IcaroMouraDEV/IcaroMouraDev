@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, meu nome é Ícaro Joel</h1>
 <h3 align="center">Sou estudande de Desenvolvimento Web na Trybe</h3>
 
- - 🔭 Estou trabalhando atualmente na [pokeapi](https://github.com/IcaroMouraDEV/pokemon_api)
+\- 🔭 Estou trabalhando atualmente na [pokeapi](https://github.com/IcaroMouraDEV/pokemon_api)
 
- - 🌱 Estou estudando atualmente **Typescript, SOLID**
+/- 🌱 Estou estudando atualmente **Typescript, SOLID**
 
- - 📫 como me encontrar **icaromoura.programador@gmail.com**
+\- 📫 como me encontrar **icaromoura.programador@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
