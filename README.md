@@ -3,7 +3,7 @@
 
 \- 🔭 Estou trabalhando atualmente na [pokeapi](https://github.com/IcaroMouraDEV/pokemon_api)
 
-/- 🌱 Estou estudando atualmente **Typescript, SOLID**
+\- 🌱 Estou estudando atualmente **Typescript, SOLID**
 
 \- 📫 como me encontrar **icaromoura.programador@gmail.com**
 
