@@ -1,12 +1,5 @@
-## Olá, meu nome é Ícaro Joel.
-### Sou estudande de Desenvolvimento Web fullstack, na Trybe
 <h1 align="center">Olá 👋, meu nome é Ícaro Joel</h1>
 <h3 align="center">Sou estudande de Desenvolvimento Web na Trybe</h3>
-
-<div align="center" style="display: inline_block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IcaroMouraDEV&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroMouraDEV&layout=compact&langs_count=5&theme=react&hide_border=true"/>
-</div>
 
 - 🔭 Estou trabalhando atualmente na [pokeapi](https://github.com/IcaroMouraDEV/pokemon_api)
 
