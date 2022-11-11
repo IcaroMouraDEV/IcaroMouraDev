@@ -9,7 +9,7 @@
 
 \- 🎮 Gosto de **jogos**, principalmente jogos de estratégia e grand strategy
 
-\- ⚡ Gosto de **ler**, focado em webnovels, mangas e ligth novel
+\- ⚡ Gosto de **ler**, principalmente webnovels, mangas e ligth novel
 
 \- 👨🏻‍💻 Atualmente estou focado em aprender mais a respeito de **back-end**. No início da minha trajetória em back-end, aprendi sobre o **NodeJS** e seu framework, o **Express**
 
