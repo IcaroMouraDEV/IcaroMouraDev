@@ -7,12 +7,13 @@
 
 \- 📫 como me encontrar **icaromoura.programador@gmail.com**
 
-<ul align="justify">
-  <li>🎮 Gosto de <strong>jogos</strong>, principalmente jogos de estratégia e grand strategy</li>
-  <li>⚡ Gosto de <strong>ler</strong>, focado em webnovels, mangas e ligth novel</li>
-  <li>👨🏻‍💻 Atualmente estou focado em aprender mais a respeito de <strong>back-end</strong>. No início da minha trajetória em back, compreendi sobre o <strong>NodeJS</strong> e seu famoso framework, o <strong>Express</strong></li>
-  <li>🖥️ Quando se trata de <strong>Front-end</strong>, utilizo o <strong>React</strong>, gosto de pensar em como fazer a <strong>lógica e regras de negócio</strong></li>
-</ul>
+\- 🎮 Gosto de **jogos**, principalmente jogos de estratégia e grand strategy
+
+\- ⚡ Gosto de **ler**, focado em webnovels, mangas e ligth novel
+
+\- 👨🏻‍💻 Atualmente estou focado em aprender mais a respeito de **back-end**. No início da minha trajetória em back-end, aprendi sobre o **NodeJS** e seu framework, o **Express**
+
+\- 🖥️ Quando se trata de **Front-end**, utilizo o **React**, gosto de pensar em como fazer a **lógica e regras de negócio**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
