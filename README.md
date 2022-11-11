@@ -5,7 +5,7 @@
 
 \- 🌱 Estou estudando atualmente **Typescript, SOLID**
 
-\- 📫 como me encontrar **icaromoura.programador@gmail.com**
+\- 📫 como me encontrar [icaromoura.programador@gmail.com](mailto:icaromoura.programador@gmail.com)
 
 \- 🎮 Gosto de **jogos**, principalmente jogos de estratégia e grand strategy
 
