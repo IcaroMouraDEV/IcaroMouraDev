@@ -4,7 +4,7 @@
 <!--
 \- 🔭 Estou trabalhando atualmente no projeto [pokeapi](https://github.com/IcaroMouraDEV/pokemon_api)
 -->
-\- 🌱 Estou estudando atualmente **Typescript, MongoDB**
+\- 🌱 Estou estudando atualmente **Python**
 
 \- 📫 como me encontrar [icaromoura.programador@gmail.com](mailto:icaromoura.programador@gmail.com)
 
