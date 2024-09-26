@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Ícaro Joel</h1>
-<h3 align="center">Sou Diretoe de desenvolvimento na Inovatech jr</h3>
+<h3 align="center">Sou Diretor de desenvolvimento na Inovatech jr</h3>
 
 <!--
 \- 🔭 Estou trabalhando atualmente no projeto [pokeapi](https://github.com/IcaroMouraDEV/pokemon_api)
